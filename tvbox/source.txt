@@ -1,8 +1,8 @@
 { 
     "urls": [
         { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
-        { "url": "http://fan.xxooo.cf/tv", "name": "饭太硬（备用）" },
-        { "url": "https://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json", "name": "小米" },
+        { "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长" },
+        { "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
         { "url": "http://肥猫.live", "name": "肥猫" },
         { "url": "https://tv.xn--yhqu5zs87a.top", "name": "菜妮丝" },
         { "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风" },
