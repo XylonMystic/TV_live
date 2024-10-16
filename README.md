@@ -5,19 +5,19 @@
 - 接口源：
 
 ```bash
-  https://mirror.ghproxy.com/raw.githubusercontent.com/XylonMystic/TV/master/output/result.txt
+  https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV/master/output/result.txt
 ```
 
 - 数据源：
 
 ```bash
-  https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/source.json
+  https://ghp.ci/raw.githubusercontent.com/Guovin/TV/gd/source.json
 ```
 
 - 直播源：
 
 ```bash
-  https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
+  https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.txt
 ```
 
 - TVbox：
