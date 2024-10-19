@@ -5,7 +5,7 @@
 - 接口源：
 
 ```bash
-  https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV/master/output/result.txt
+  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV_live/refs/heads/main/config/contents.txt
 ```
 
 - 数据源：
